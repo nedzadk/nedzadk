@@ -1,34 +1,6 @@
 ### Hi there 👋
 
-Nedzad here, software developer with experience in following: 
-
-## Languages 
-* JavaScript
-* Ruby 
-* PHP 
-* Rust (...learning phase)
-
-## Frameworks and Libraries
-
-### JavaScript 
-* React
-* NodeJS
-* Angular
-* Redux / MobX / AltJS
-* Sequelize
-* Knex / Bookshelf
-
-### Ruby 
-* Ruby on Rails
-
-### PHP
-* CodeIgniter
-* Laravel
-* CakePHP
-
-### Rust 
-* ...learning
-
+Nice to meet you. Need help with JS reach me at [nedzad@hey.com](mailto:nedzad@hey.com)
 
 <!--
 **nedzadk/nedzadk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
