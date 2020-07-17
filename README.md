@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Nice to meet you. Need help with JS reach me at [nedzad@hey.com](mailto:nedzad@hey.com)
+Nice to meet you. Need help with JS? You can find me at [nedzad@hey.com](mailto:nedzad@hey.com)
 
 <!--
 **nedzadk/nedzadk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
